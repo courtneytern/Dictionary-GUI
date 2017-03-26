@@ -1,0 +1,82 @@
+Welcome to the English-Spanish Dictionary help section.
+
+I. General Use
+In the opening frame, you will see the main portion of the dictionary where
+you may translate from either English to Spanish, or from Spanish to English.
+The “Toggle Mode” button in the bottom center changes which way to translate.
+See the current mode in the text directly to the left of the Toggle Mode
+button. 
+In the box that says “Enter word to translate”, you may type in the word that
+you would like to translate, then click the “Translate” button. Its
+translation will appear directly to the right of the Translate button, or an
+apology message if that word does not exist in the selected dictionary. Be
+sure that the correct mode is selected when attempting to translate a word.
+
+II. Editing 
+To edit the dictionary, click the “Edit Dictionary” button in the bottom
+right. You must have an administrator password in order to edit the
+dictionary. A window will pop up for you to log in. For running purposes, the
+password is “admin”. 
+
+Once logged in, a complete list of all of the words in each dictionary are
+listed in alphabetical order, with their translations next to it. The English
+to Spanish dictionary is on the left and the Spanish to English dictionary is
+on the right. 
+
+II. a. Add
+To add a word to either dictionary, select the “Add Word/Translation” button
+in the bottom left corner of the edit screen. 
+
+In the screen that pops up, type in the word you would like to add in the
+“Enter word” box, and one of its translations in the “Enter translation one
+at a time” box. Then, select “Add to English2Spanish” if the word in the
+“Enter word” box is in English, or “Add to Spanish2English” if the word is in
+Spanish. 
+To add multiple translations to the same word, simply clear the translation
+box and type in the additional translations. 
+
+The newly added translations will not show up until you close out of the
+admin mode and log in again.
+
+II. b. Delete
+To delete either a word or a translation, click the “Delete Word/Translation”
+button in the bottom center. 
+
+If you would like to delete a word and all of its translations,  type the
+word into the “Enter word” box in the top left. If the original word is in
+English, click “Delete word from English”. If the original word is in
+Spanish, click “Delete word from Spanish”. 
+If you would like to delete only certain translations from a word,  you must
+type in the original word into the “Enter word” box, and then the translation
+you would like to delete from it in the “Enter translation” box. Then, click
+“Delete translation from English” if the original word is in English, or
+“Delete translation from Spanish” if the original word is in Spanish. This
+will keep any other translations from the word. 
+
+For all deletions, the other dictionary’s contents will be automatically
+updated to reflect your edits.
+Again, your changes will only be seen after you close out, then re-login to
+the edit pane. 
+
+II. c. Edit
+To edit a word or a translation without adding or deleting an entry (aka
+fixing a typo), click on the “Edit Word/Translation” button in the bottom
+right corner. 
+
+To edit a word, enter the current word in the “Word to Edit” box. Then, type
+what you would like to change it to in the “New Value” box.  
+Then, select either the “English to Spanish” radio button at the bottom if
+the word is in English, or “Spanish to English” if the word is in Spanish.
+Click “EDIT” directly to the right of the “New Value” box when you are ready. 
+
+To edit a translation of a word, enter the word whose translation you would
+like to fix in the “Enter word” box. Type the current translation that needs
+editing into the “Current translation” box. Then, type what you would like to
+change it to in the “New Translation” box. Select either the “English to Spanish” 
+radio button at the bottom if the word is in English, or “Spanish to English” 
+if the word is in Spanish.
+Click “EDIT” directly to the right of the “New Translation” box when you are
+ready.
+
+Again, your changes will only be seen after you close out, then re-login to
+the edit pane.
